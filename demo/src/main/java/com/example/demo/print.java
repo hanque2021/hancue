@@ -7,7 +7,7 @@ public class print {
 		System.out.println("local test");
 
 		System.out.println("추가");
-"		System.out.prnt(				
+		System.out.print(	"");			
 			
 	}
 }
